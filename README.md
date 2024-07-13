@@ -1,28 +1,29 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <h3 align="center">
-  Welcome to Mohamed awad's profile!
+  Welcome to [Your Name]'s GitHub!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Laravel%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Software%20Engineer;Specializing%20in%20Laravel;Constantly%20Learning%20and%20Growing&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22"></a>
 </p> 
 
-- 🎓 I have a Bachelor's degree from the Faculty of Information and Computer Sciences at Mansoura University.
-- 🏢 I'm a Junior Software Engineer specializing in Laravel.
-- 🌟 Proven track record of optimizing applications using MVC architecture and API development.
-- 💬 Ask me about my experience with Laravel, MVC architecture, and API development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day starts and ends with a cup of coffee.
-- 🌐 Check out my portfolio at [Your Portfolio URL] to see some of the projects I've worked on.
+- 👋 Hi, I’m a Junior Software Engineer with a Bachelor's degree from the Faculty of Information and Computer Sciences at Mansoura University.
+- 🏢 Currently focusing on optimizing applications using MVC architecture and API development.
+- 💬 Ask me about Laravel, PHP, MVC architecture, and API development.
+- 🌱 Always eager to learn new technologies and improve my skills.
+- ⚡ Fun fact: I love solving complex problems and drinking coffee.
+- 🌐 Check out my portfolio at [Your Portfolio URL].
 
-### Connect with Me :
+### Connect with Me:
 
-<a href="https://www.linkedin.com/in/mo7amed-awad" target="_blank"><img src="https://img.shields.io/badge/-mohamedawad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/ma7amedawad" target="_blank"><img src="https://img.shields.io/badge/-mohamedawad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/[Your LinkedIn]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/[Your Twitter]" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://t.me/[Your Telegram]" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
-
+<a href="https://www.buymeacoffee.com/[Your Profile]" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
@@ -36,8 +37,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amed-awad&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=[Your GitHub Username]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=mo7amed-awad&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mo7amed-awad&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=[Your GitHub Username]&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=[Your GitHub Username]&style=for-the-badge">
 </a>
