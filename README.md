@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mohamed Awad👋
 
 <img width="250" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
@@ -9,7 +9,7 @@ I am a software engineer with a Bachelor's degree from the Faculty of Informatio
 🌟 **Key Highlights**:
 - 🚀 Experienced in Laravel and MVC architecture.
 - 🔗 Proficient in API development.
-- 🏆 Strong leadership and team management skills.
+- 🏆 leadership and team management skills.
 - 🌐 Fluent in English for effective communication.
 
 ## 🛠️ Skills
@@ -21,24 +21,6 @@ I am a software engineer with a Bachelor's degree from the Faculty of Informatio
 - **Version Control**: Git, GitHub
 - **Others**: MVC Architecture, Agile Methodologies, Leadership and Team Management
 
-## 💼 Professional Experience
-
-- **Junior Software Engineer**
-  - **Company Name**: [Your Current or Previous Company]
-  - **Duration**: [Start Date] - [End Date or Present]
-  - **Responsibilities**:
-    - Developed and maintained web applications using Laravel.
-    - Implemented MVC architecture to enhance application performance.
-    - Created and integrated APIs to facilitate seamless data exchange.
-    - Led a team of developers to ensure project milestones were met.
-    - Communicated complex technical concepts to non-technical stakeholders.
-
-## 🚀 Projects
-
-- **Project Name**
-  - **Description**: Brief description of the project.
-  - **Technologies Used**: Laravel, MySQL, JavaScript
-  - **Link**: [GitHub Repository or Live Project Link]
 
 ## 🎓 Education
 
