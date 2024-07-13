@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name] 👋
 
-<img width="250" align="right" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img width="250" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 ## About Me
 
