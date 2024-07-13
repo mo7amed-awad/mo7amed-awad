@@ -38,4 +38,4 @@ I am a software engineer with a Bachelor's degree from the Faculty of Informatio
 
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me!
 
-![Footer Image](https://via.placeholder.com/800x200.png?text=Thank+You+for+Visiting)
+<img width="800" src="[Footer Image URL]" alt="Thank You for Visiting">
