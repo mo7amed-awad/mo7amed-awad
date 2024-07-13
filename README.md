@@ -13,7 +13,6 @@
 - 🌟 Proven track record of optimizing applications using MVC architecture and API development.
 - 💬 Ask me about my experience with Laravel, MVC architecture, and API development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day starts and ends with a cup of coffee.
-- 🌐 Check out my portfolio at [Your Portfolio URL] to see some of the projects I've worked on.
 
 
 
