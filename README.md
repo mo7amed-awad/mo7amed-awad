@@ -1,41 +1,22 @@
-# Hi there, I'm Mohamed Awad👋
+### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Mohamed Awad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-<a href="https://www.linkedin.com/in/mo7amed-awad" target="_blank"><img src="https://img.shields.io/badge/-mohamedawad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/ma7amedawad" target="_blank"><img src="https://img.shields.io/badge/-mohamedawad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-## About Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mo7amed-awad")
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ma7amedawad)
 
-I am a software engineer with a Bachelor's degree from the Faculty of Information and Computer Sciences at Mansoura University. As a Junior Software Engineer specializing in Laravel, I have a proven track record of optimizing applications using MVC architecture and API development, resulting in increased efficiency and user satisfaction.
+### Glad to see you here!   <a href="https://komarev.com/ghpvc/?username=mo7amed-awad&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=mo7amed-awad&style=for-the-badge"></a>
 
-🌟 **Key Highlights**:
-- 🚀 Experienced in Laravel and MVC architecture.
-- 🔗 Proficient in API development.
-- 🏆 leadership and team management skills.
-- 🌐 Fluent in English for effective communication.
+I am a software engineer with a Bachelor's degree from the Faculty of Information and Computer Sciences at Mansoura University. As a Junior Software Engineer specializing in Laravel, I have a proven track record of optimizing applications using MVC architecture and API development, resulting in increased efficiency and user satisfaction. I possess strong leadership skills that enable me to effectively manage teams and drive projects to successful completion. Additionally, my proficiency in English facilitates clear communication of complex technical concepts. Thriving in high-pressure environments, I consistently deliver innovative solutions that maximize ROI and contribute to the overall success of the organization.
 
-## 🛠️ Skills
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+  
 
-- **Backend Development**: Laravel, PHP
-- **Frontend Development**: HTML, CSS, JavaScript
-- **Database Management**: MySQL, PostgreSQL
-- **API Development**: RESTful APIs
-- **Version Control**: Git, GitHub
-- **Others**: MVC Architecture, Agile Methodologies, Leadership and Team Management
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mo7amed-awad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amed-awadr&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 
-## 🎓 Education
 
-- **Bachelor's Degree in Information and Computer Sciences**
-  - **University**: Mansoura University
-  - **Year**: [Year of Graduation]
 
-## 📫 Contact
-
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-
-## 🤝 Let's Connect!
-
-I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me!
-
-<img width="800" src="https://via.placeholder.com/800x200.png?text=Thank+You+for+Visiting" alt="Thank You for Visiting">
