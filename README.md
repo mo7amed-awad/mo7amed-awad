@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name] 👋
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img width="250" align="right" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 ## About Me
 
 I am a software engineer with a Bachelor's degree from the Faculty of Information and Computer Sciences at Mansoura University. As a Junior Software Engineer specializing in Laravel, I have a proven track record of optimizing applications using MVC architecture and API development, resulting in increased efficiency and user satisfaction.
