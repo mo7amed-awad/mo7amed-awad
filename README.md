@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Awad👋
 
-<img width="250" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
-
+<a href="https://www.linkedin.com/in/mo7amed-awad" target="_blank"><img src="https://img.shields.io/badge/-mohamedawad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/ma7amedawad" target="_blank"><img src="https://img.shields.io/badge/-mohamedawad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ## About Me
 
 I am a software engineer with a Bachelor's degree from the Faculty of Information and Computer Sciences at Mansoura University. As a Junior Software Engineer specializing in Laravel, I have a proven track record of optimizing applications using MVC architecture and API development, resulting in increased efficiency and user satisfaction.
@@ -38,4 +38,4 @@ I am a software engineer with a Bachelor's degree from the Faculty of Informatio
 
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me!
 
-<img width="800" src="[Footer Image URL]" alt="Thank You for Visiting">
+<img width="800" src="https://via.placeholder.com/800x200.png?text=Thank+You+for+Visiting" alt="Thank You for Visiting">
