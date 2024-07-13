@@ -14,7 +14,7 @@ I am a software engineer with a Bachelor's degree from the Faculty of Informatio
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mo7amed-awad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amed-awadr&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amed-awad&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
