@@ -20,7 +20,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mo7amed-awad" target="_blank"><img src="https://img.shields.io/badge/-mohamedawad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/ma7amedawad" target="_blank"><img src="https://img.shields.io/badge/-Your%20Name-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/ma7amedawad" target="_blank"><img src="https://img.shields.io/badge/-mohamedawad-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 
